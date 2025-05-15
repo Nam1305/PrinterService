@@ -18,7 +18,9 @@ class Program
             ScalingMode = PdfSinglePageScalingMode.FitSize
         };
 
-        IPrinter printer = PrinterFactory.CreatePrinter("sato");
-        printer.Print(pdfPath, settings);
+        IPrinter sato = PrinterFactory.CreatePrinter("sato");
+        IPrinter zebra = PrinterFactory.CreatePrinter("zebra");
+        sato.Print(pdfPath, settings);
+        //zebra.Print(pdfPath, settings);
     }
 }

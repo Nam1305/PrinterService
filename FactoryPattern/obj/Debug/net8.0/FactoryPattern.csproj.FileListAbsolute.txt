@@ -31,3 +31,4 @@ D:\Project\Temp\FactoryPattern\obj\Debug\net8.0\refint\FactoryPattern.dll
 D:\Project\Temp\FactoryPattern\obj\Debug\net8.0\FactoryPattern.pdb
 D:\Project\Temp\FactoryPattern\obj\Debug\net8.0\FactoryPattern.genruntimeconfig.cache
 D:\Project\Temp\FactoryPattern\obj\Debug\net8.0\ref\FactoryPattern.dll
+D:\Project\Temp\FactoryPattern\obj\Debug\net8.0\FactoryPattern.sourcelink.json
