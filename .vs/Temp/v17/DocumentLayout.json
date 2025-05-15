@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Project\\Temp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02BCE2A9-450A-4F20-A96D-829DCB619A6D}|FactoryPattern\\FactoryPattern.csproj|d:\\project\\temp\\factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02BCE2A9-450A-4F20-A96D-829DCB619A6D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02BCE2A9-450A-4F20-A96D-829DCB619A6D}|FactoryPattern\\FactoryPattern.csproj|d:\\project\\temp\\factorypattern\\satoprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02BCE2A9-450A-4F20-A96D-829DCB619A6D}|FactoryPattern\\FactoryPattern.csproj|solutionrelative:factorypattern\\satoprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{222B04E2-F604-4669-9279-8C0EE481025E}|Temp\\Temp.csproj|d:\\project\\temp\\temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{222B04E2-F604-4669-9279-8C0EE481025E}|Temp\\Temp.csproj|solutionrelative:temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6DB2172-BA8B-492C-8981-ED4B676D70E9}|APISolution\\APISolution.csproj|d:\\project\\temp\\apisolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DB2172-BA8B-492C-8981-ED4B676D70E9}|APISolution\\APISolution.csproj|solutionrelative:apisolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\Temp\\Temp\\Program.cs",
-              "RelativeDocumentMoniker": "Temp\\Program.cs",
-              "ToolTip": "D:\\Project\\Temp\\Temp\\Program.cs",
-              "RelativeToolTip": "Temp\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwE8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T06:26:33.959Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\Temp\\FactoryPattern\\Program.cs",
-              "RelativeDocumentMoniker": "FactoryPattern\\Program.cs",
-              "ToolTip": "D:\\Project\\Temp\\FactoryPattern\\Program.cs",
-              "RelativeToolTip": "FactoryPattern\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Project\\Temp\\APISolution\\Program.cs",
+              "RelativeDocumentMoniker": "APISolution\\Program.cs",
+              "ToolTip": "D:\\Project\\Temp\\APISolution\\Program.cs",
+              "RelativeToolTip": "APISolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:14:58.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SatoPrinter.cs",
-              "DocumentMoniker": "D:\\Project\\Temp\\FactoryPattern\\SatoPrinter.cs",
-              "RelativeDocumentMoniker": "FactoryPattern\\SatoPrinter.cs",
-              "ToolTip": "D:\\Project\\Temp\\FactoryPattern\\SatoPrinter.cs",
-              "RelativeToolTip": "FactoryPattern\\SatoPrinter.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAIwEcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:22:28.128Z",
+              "WhenOpened": "2025-05-15T09:36:06.76Z",
               "EditorCaption": ""
             }
           ]
