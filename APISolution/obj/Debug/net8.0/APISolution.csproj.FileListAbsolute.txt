@@ -13,7 +13,9 @@ D:\Project\Temp\APISolution\obj\Debug\net8.0\refint\APISolution.dll
 D:\Project\Temp\APISolution\obj\Debug\net8.0\APISolution.pdb
 D:\Project\Temp\APISolution\obj\Debug\net8.0\APISolution.genruntimeconfig.cache
 D:\Project\Temp\APISolution\obj\Debug\net8.0\ref\APISolution.dll
-D:\Project\Temp\APISolution\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
-D:\Project\Temp\APISolution\bin\Debug\net8.0\itextsharp.dll
 D:\Project\Temp\APISolution\obj\Debug\net8.0\APISolution.csproj.AssemblyReference.cache
 D:\Project\Temp\APISolution\obj\Debug\net8.0\APISolut.556828C0.Up2Date
+D:\Project\Temp\APISolution\bin\Debug\net8.0\Spire.Common.dll
+D:\Project\Temp\APISolution\bin\Debug\net8.0\Spire.License.dll
+D:\Project\Temp\APISolution\bin\Debug\net8.0\Spire.Pdf.dll
+D:\Project\Temp\APISolution\bin\Debug\net8.0\Spire.XLS.dll

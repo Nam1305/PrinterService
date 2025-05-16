@@ -50,9 +50,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Spire.PDF": {
+            "System.Drawing.Common": {
               "target": "Package",
-              "version": "[11.4.10, )"
+              "version": "[9.0.5, )"
             }
           },
           "imports": [

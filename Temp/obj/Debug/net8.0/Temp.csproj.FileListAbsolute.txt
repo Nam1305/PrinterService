@@ -31,3 +31,4 @@ D:\Project\Temp\Temp\obj\Debug\net8.0\refint\Temp.dll
 D:\Project\Temp\Temp\obj\Debug\net8.0\Temp.pdb
 D:\Project\Temp\Temp\obj\Debug\net8.0\Temp.genruntimeconfig.cache
 D:\Project\Temp\Temp\obj\Debug\net8.0\ref\Temp.dll
+D:\Project\Temp\Temp\obj\Debug\net8.0\Temp.sourcelink.json

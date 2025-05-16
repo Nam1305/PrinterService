@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Project\\Temp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6DB2172-BA8B-492C-8981-ED4B676D70E9}|APISolution\\APISolution.csproj|d:\\project\\temp\\apisolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6DB2172-BA8B-492C-8981-ED4B676D70E9}|APISolution\\APISolution.csproj|solutionrelative:apisolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF232B66-B738-46D9-8B23-7140F7F0237D}|Test\\Test.csproj|d:\\project\\temp\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF232B66-B738-46D9-8B23-7140F7F0237D}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\Temp\\APISolution\\Program.cs",
-              "RelativeDocumentMoniker": "APISolution\\Program.cs",
-              "ToolTip": "D:\\Project\\Temp\\APISolution\\Program.cs",
-              "RelativeToolTip": "APISolution\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Project\\Temp\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\Project\\Temp\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T09:36:06.76Z",
+              "WhenOpened": "2025-05-16T07:28:17.244Z",
               "EditorCaption": ""
             }
           ]

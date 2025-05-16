@@ -35,6 +35,8 @@ class Program
             // Load file
             PdfDocument pdfDocument = new PdfDocument();
             pdfDocument.LoadFromFile(pdfPath);
+            // Không scale
+            pdfDocument.PrintSettings.SelectSinglePageLayout(PdfSinglePageScalingMode.FitSize);
 
             // Xoá xoay metadata (nếu có)
             foreach (PdfPageBase page in pdfDocument.Pages)
@@ -60,10 +62,6 @@ class Program
 
             // Set lề = 0
             pdfDocument.PrintSettings.SetPaperMargins(0, 0, 0, 0);
-
-            // Không scale
-            pdfDocument.PrintSettings.SelectSinglePageLayout(PdfSinglePageScalingMode.FitSize);
-            //
 
             // Reset transform nếu driver cố tình xoay
             pdfDocument.PrintSettings.PrintPage += (sender, e) =>
