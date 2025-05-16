@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fix", "Fix\Fix.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterService", "PrinterService\PrinterService.csproj", "{8024AE91-FADE-4203-B2DE-BCC9323B959C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET5", "NET5\NET5.csproj", "{2D77A70B-4EFC-4BD4-884F-2858EF6AD02A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8024AE91-FADE-4203-B2DE-BCC9323B959C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8024AE91-FADE-4203-B2DE-BCC9323B959C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8024AE91-FADE-4203-B2DE-BCC9323B959C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D77A70B-4EFC-4BD4-884F-2858EF6AD02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D77A70B-4EFC-4BD4-884F-2858EF6AD02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D77A70B-4EFC-4BD4-884F-2858EF6AD02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D77A70B-4EFC-4BD4-884F-2858EF6AD02A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

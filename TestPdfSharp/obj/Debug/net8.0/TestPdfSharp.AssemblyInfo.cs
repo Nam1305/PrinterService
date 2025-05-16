@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestPdfSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70c2029e76ba99e02841e4a2b50f50065d5455dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b46b0224d9c260afbba18ef47e536b02cef9c138")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestPdfSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestPdfSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

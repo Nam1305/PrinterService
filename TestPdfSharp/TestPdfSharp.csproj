@@ -11,4 +11,10 @@
     <PackageReference Include="PDFsharp" Version="6.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="SATOPrinterAPI">
+      <HintPath>C:\Program Files (x86)\SATO\SATO Printer API\Assembly\x64\SATOPrinterAPI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

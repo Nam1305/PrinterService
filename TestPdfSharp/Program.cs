@@ -1,20 +1,18 @@
-﻿using PdfSharp.Pdf;
-using PdfSharp.Pdf.IO;
-using System.Drawing.Printing;
-using System.Drawing;
+﻿using SATOPrinterAPI;
+using System;
+using System.Text;
 
 class Program
 {
     static void Main(string[] args)
     {
-
-        string pdfPath = @"C:\Users\vnintern01\Downloads\slack.pdf";
-        string printerName = "TestPrint";
-
-        // Load PDF
-        PdfDocument pdfDocument = PdfReader.Open(pdfPath, PdfDocumentOpenMode.Import);
-
-        // Tạo PrintDocument
-        System.Drawing.
+        Printer printer = new Printer();
+        Driver satoDriver = new Driver();
+        
+        List<Driver.Info> drivers = satoDriver.GetDriverList();
+        foreach (Driver.Info driver in drivers) 
+        {
+            Console.WriteLine(driver);
+        }   
     }
 }

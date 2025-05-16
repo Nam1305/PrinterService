@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LE5p9RyFzAI=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Temp\\NET5\\NET5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vnintern01\\.nuget\\packages\\system.drawing.common\\9.0.5\\system.drawing.common.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
